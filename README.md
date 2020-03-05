@@ -1,2 +1,2 @@
 # Greedy Algorithms
-The repo covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming
+In this repo you will learn about seemingly naïve yet powerful class of algorithms called greedy algorithms.
